@@ -14,6 +14,8 @@ this is the image of the robot,
 
 ## CIRCUIT
 
+![msg168787827-816872](https://github.com/LobinArcolungo/tiny-robot/assets/72403876/d5b2f1b3-6d5e-4411-b71a-45bd2686d815)
+
 ![msg168787827-816861](https://github.com/LobinArcolungo/tiny-robot/assets/72403876/aafc1d40-96f8-4742-8c80-4a9228fc9b64)
 
 ![msg168787827-816862](https://github.com/LobinArcolungo/tiny-robot/assets/72403876/113ff4c2-3a51-43af-895a-a5d91c499ec6)
