@@ -1,0 +1,5 @@
+IDEAS
+
+The robot listens to it's surroundings and when it recognizes a beat, for example a song or a repetitive pattern starts to wiggle and dence accordingly
+
+for example staying alive starts, the robot identifies the bpm, and starts to move using his "libraries" aka dabnce move archive following the beat of the song
